@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"O‘yin platformasi"},{"path":"/invite/:code","title":"Taklif havolasi"},{"path":"/room/:id","title":"O‘yin xonasi"},{"path":"/game/:id","title":"O‘yin"},{"path":"/404","title":"Sahifa topilmadi"}]}
